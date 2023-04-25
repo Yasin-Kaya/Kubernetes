@@ -197,3 +197,8 @@ SECRETS AND CONFIGMAP
 ## Resources
 
 - [Kubernetes Documentations](https://kubernetes.io/docs/home/)
+
+## Contact
+
+- Please contact me to access the project files.
+    * yasinkaya.devops@gmail.com
